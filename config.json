@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "Appu",
+    "receiver": "Azlagi🧸"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Patootie",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "Azlagii💋"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "caption": "Vaathuu💋"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "caption": "Bommaa💋"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "caption": "Mukkii💋"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "caption": "Pattuhh💋"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "caption": "Dubukkii💋"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook for you whatever you want, whenever you want 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care 🫂"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I'll be there for you whenever you need comfort 🫀"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "You are my favorite love song 🎶"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Mayilaanjiye",
+      "duration": "3:48",
+      "album": "Sivappu Manjal Pachai",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Sivappu.jpg",
+      "audio": "/src/assets/songs/Mayilaanjiye.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Perfect",
+      "duration": "4:23", 
+      "album": "Ed Sheeran",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Perfect.jpg",
+      "audio": "/src/assets/songs/Perfect.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Uyire Un Uyirena",
+      "duration": "04:44",
+      "album": "Zero",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Zero.jpg",
+      "audio": "/src/assets/songs/Uyire.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Stuck With U",
+      "duration": "3:45",
+      "album": "Justin Bieber",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Stuck.jpg",
+      "audio": "/src/assets/songs/Stuck.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Innum Konjam Naeram",
+      "duration": "4:08",
+      "album": "Maryan",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Maryan.jpg",
+      "audio": "/src/assets/songs/Innum.mp3"
+    }
+  ],
+  "letter": {
+    "title": "Hey! Azlagii<3,",
+    "content": [
+      "I Love You Moreee...Ithey maari epayum happy ah irupom ellamey azlagaa kondu polaam.",
+      "Epayum etha nenachiyum kashta padaama olunga irunga ellaathaiyum seri panrom super ah oru lyf vaazlurom.",
+      "All I want to say is that you are not just my lover, you are my life and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nNirai<3"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
